@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "id": "doc-1",
+    "title": "Character Sheet Template",
+    "description": "Comprehensive character creation template for writers and game designers. Includes physical traits, personality, backstory, skills, and development arcs.",
+    "category": "templates",
+    "fileName": "character-sheet-template.pdf",
+    "fileSize": 2457600,
+    "uploadedBy": "Creative Dojo Team",
+    "uploadedDate": "2024-10-22",
+    "downloadCount": 0,
+    "tags": ["character", "template", "writing", "game-design"],
+    "previewText": "Physical Appearance, Personality Traits, Backstory, Skills & Abilities, Character Arc"
+  },
+  {
+    "id": "doc-2",
+    "title": "Product Specification Template",
+    "description": "Professional product spec template for product managers and designers. Covers user stories, technical requirements, and success metrics.",
+    "category": "templates",
+    "fileName": "product-spec-template.pdf",
+    "fileSize": 1856000,
+    "uploadedBy": "Sarah Mitchell",
+    "uploadedDate": "2024-10-22",
+    "downloadCount": 0,
+    "tags": ["product", "specification", "template", "project-management"],
+    "previewText": "Problem Statement, User Stories, Technical Requirements, Success Metrics, Timeline"
+  },
+  {
+    "id": "doc-3",
+    "title": "Brand Voice Guide",
+    "description": "Complete brand voice and tone guide with examples. Defines personality, communication style, and dos/don'ts for consistent messaging.",
+    "category": "reference-materials",
+    "fileName": "brand-voice-guide.pdf",
+    "fileSize": 3204800,
+    "uploadedBy": "Marketing Team",
+    "uploadedDate": "2024-10-22",
+    "downloadCount": 0,
+    "tags": ["brand", "voice", "tone", "marketing", "communication"],
+    "previewText": "Brand Personality, Tone Guidelines, Voice Attributes, Example Phrases, Dos and Don'ts"
+  },
+  {
+    "id": "doc-4",
+    "title": "World Building Framework",
+    "description": "Comprehensive framework for creating fictional worlds including geography, culture, history, and magic systems. Perfect for fantasy and sci-fi writers.",
+    "category": "frameworks",
+    "fileName": "world-building-framework.pdf",
+    "fileSize": 1543210,
+    "uploadedBy": "Alex Chen",
+    "uploadedDate": "2024-10-22",
+    "downloadCount": 0,
+    "tags": ["worldbuilding", "fantasy", "scifi", "writing", "framework"],
+    "previewText": "Geography & Climate, Political Systems, Cultural Details, Magic/Tech Systems, Historical Timeline, Species & Creatures"
+  },
+  {
+    "id": "doc-5",
+    "title": "Cyberpunk Aesthetic Guide",
+    "description": "Visual style reference for cyberpunk aesthetics. Includes color palettes, lighting styles, architectural elements, and mood references.",
+    "category": "style-references",
+    "fileName": "cyberpunk-aesthetic.pdf",
+    "fileSize": 5632100,
+    "uploadedBy": "Visual Arts Collective",
+    "uploadedDate": "2024-10-22",
+    "downloadCount": 0,
+    "tags": ["cyberpunk", "aesthetic", "visual", "style", "reference"],
+    "previewText": "Color Palettes (neon, dark), Lighting (dramatic shadows, neon glow), Architecture (brutalist, tech), Fashion, Mood & Atmosphere"
+  }
+]
