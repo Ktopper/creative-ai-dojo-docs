@@ -91,5 +91,19 @@
     "previewText": "Voice & tone, structure, forbidden words, code example guidance, pre-publication checklist"
   }
 
+  ,{
+    "id": "doc-8",
+    "title": "Narrative Structure Architect",
+    "description": "Expert system prompt and guide for designing, analyzing, and repairing narrative structures for fiction and non-fiction. Covers act structure, pacing, tension, scene mechanics, and advanced frameworks.",
+    "category": "frameworks",
+    "fileName": "narrative-structure-architect.md",
+    "fileSize": 512000,
+    "uploadedBy": "Creative Dojo Team",
+    "uploadedDate": "2025-10-26",
+    "downloadCount": 0,
+    "tags": ["narrative", "structure", "story", "framework", "writing", "analysis"],
+    "previewText": "Three-Act Structure, tension-release, scene mechanics, pacing, diagnostic protocols, advanced narrative frameworks"
+  }
+
   
 ]
