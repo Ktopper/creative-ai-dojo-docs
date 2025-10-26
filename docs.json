@@ -77,5 +77,19 @@
     "tags": ["cyberpunk", "aesthetic", "visual", "style", "reference"],
     "previewText": "Color Palettes (neon, dark), Lighting (dramatic shadows, neon glow), Architecture (brutalist, tech), Fashion, Mood & Atmosphere"
   },
+    {
+    "id": "doc-7",
+    "title": "Writing Tech Articles That Sound Human",
+    "description": "Guide for AI-assisted technical writing that explains how to write tech articles with a natural, human voice and concrete examples.",
+    "category": "style-references",
+    "fileName": "writing-tech-blog.md",
+    "fileSize": 102400,
+    "uploadedBy": "Creative Dojo Team",
+    "uploadedDate": "2025-10-26",
+    "downloadCount": 0,
+    "tags": ["writing", "style", "tech-writing", "guide"],
+    "previewText": "Voice & tone, structure, forbidden words, code example guidance, pre-publication checklist"
+  }
+
   
 ]
