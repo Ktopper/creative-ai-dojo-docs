@@ -105,5 +105,19 @@
     "previewText": "Three-Act Structure, tension-release, scene mechanics, pacing, diagnostic protocols, advanced narrative frameworks"
   }
 
+  ,{
+    "id": "doc-9",
+    "title": "Suno Songwriting: Adaptive Lyric & Style Prompt Guide",
+    "description": "Comprehensive guide for creating Suno v5 song prompts, combining structured lyrics and expressive style prompts. Covers formatting, lyric structure, style prompt writing, and adaptive songwriting logic for contemporary music.",
+    "category": "reference-materials",
+    "fileName": "suno-song-contemporary-writer.md",
+    "fileSize": 128000,
+    "uploadedBy": "Creative Dojo Team",
+    "uploadedDate": "2025-10-26",
+    "downloadCount": 0,
+    "tags": ["suno", "songwriting", "music", "prompt", "lyrics", "style", "guide"],
+    "previewText": "Suno prompt structure, lyric template, style prompt, adaptive songwriting, contemporary music techniques"
+  }
+
   
 ]
