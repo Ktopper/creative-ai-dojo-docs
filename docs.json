@@ -95,5 +95,19 @@
     "previewText": "Suno prompt structure, lyric template, style prompt, adaptive songwriting, contemporary music techniques"
   }
 
+  ,{
+    "id": "doc-10",
+    "title": "Human-Centered Creativity Context",
+    "description": "Framework and system prompt for producing creative work that resists algorithmic sterility. Covers principles, tone, process, and quality standards for authentic, emotionally resonant writing in fiction, content, lyrics, scripts, and brainstorming.",
+    "category": "frameworks",
+    "fileName": "human-centered-creativity-context.md",
+    "fileSize": 256000,
+    "uploadedBy": "Creative Dojo Team",
+    "uploadedDate": "2025-10-26",
+    "downloadCount": 0,
+    "tags": ["creativity", "framework", "writing", "authenticity", "human-centered", "process"],
+    "previewText": "Countering AI sterility, productive imperfection, human voice, creative process, quality markers, emotional resonance"
+  }
+
   
 ]
