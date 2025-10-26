@@ -109,5 +109,19 @@
     "previewText": "Countering AI sterility, productive imperfection, human voice, creative process, quality markers, emotional resonance"
   }
 
+  ,{
+    "id": "doc-11",
+    "title": "Universal Truth Layer (UTL) Framework for Creative Writing",
+    "description": "Framework and system prompt for identifying and integrating deep, recurring patterns of human experience in narrative. Covers archetypes, monomyth, isomorphic relationships, and universal theme mapping for advanced story analysis and generation.",
+    "category": "frameworks",
+    "fileName": "UTL_Context_Document.md",
+    "fileSize": 192000,
+    "uploadedBy": "Creative Dojo Team",
+    "uploadedDate": "2025-10-26",
+    "downloadCount": 0,
+    "tags": ["universal-truth", "framework", "archetype", "structure", "theme", "writing", "analysis"],
+    "previewText": "Archetypes, monomyth, isomorphic patterns, universal themes, deep structure, narrative analysis"
+  }
+
   
 ]
